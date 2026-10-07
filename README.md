@@ -15,7 +15,6 @@
   - [Описание итоговой диаграммы](task2-bpmn/description.md)
 - Задание 3. IDEF0
   - [Конспект по IDEF0](task3-idef0/notes_idef0.md)
-  - [Упражнения (ex01–ex10)](task3-idef0/exercise_idef0/)
   - [Описание итоговой модели](task3-idef0/description.md)
 - Задание 4. Python
   - [Модуль 1. Переменные и типы данных](task4-python/module1_basics.py)
